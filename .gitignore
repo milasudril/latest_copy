@@ -1,0 +1,23 @@
+__wand_targets*
+__wand_targets*
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# Other
+*.dat
+
+# Windows executables
+*.exe
